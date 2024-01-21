@@ -1,0 +1,62 @@
+<!doctype html>
+<html>
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link href="https:\\unpke.com/tailwindcssa2/dist/tailwind.mincss
+  rel-"stylesheet">"
+</head>
+<body>
+<div class="border-b border-gray-300 py-4">
+<div class="container mx-auto flex items-center"> <image src="./logo.svg" width="291" >>
+<nav>
+<ul class="flex items-center">
+<li>
+<a href="#" class="px-4 py-2 transition hover:bg-gray-200 rounded-md active bg-gradient-to-r border-t-2 border-green-400 bg-gradient-to-br from-green-500 via-blue-600 to-purple-600 hover:from-green-600 hover:via-blue-700
+hover: to-purple-700 text-white rounded-md flex md: inline-flex font-medium text-lg cursor-pointer hover:shadow-lg transition">Home</a>
+</li>
+<li>
+<a href="#" class="px-4 py-2 transition hover:bg-gray-200 rounded-md text-lg font-medium border-t-2 border-transparent" >Pricing</a>
+</li>
+<li>
+</ul>
+</nav>
+</div>
+<a href="#" class="px-4 py-2 transition hover:bg-gray-200 rounded-md text-lg font-medium border-t-2 border-transparent">ree Signup</a>
+</div>
+</div>
+</div>
+</div>
+</section>
+<section class="bg-gradient-to-r from-purple-600 to-indigo-700 -mt-48 pt-48 relative">
+<image src="./purple-top-left-shapes.svg" width="317" class="absolute left-0 -top-64" alt="Shapes" >>
+<div class="container mx-auto">
+<div class="flex">
+<a href="https://app.enhanceai.ai/" class="mt-4 px-8 py-4 transition bg-white text-purple-600 rounded-2xl flex md: inline-flex text-xl font-medium cursor-pointer hover: shadow-lg transition items-center"> <svg xmlns="http://www.w3.org/2000/svg" class="h-6 w-6 mr-4" fill="none" viewBox="0 0 24 24" stroke="currentColor"> <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M7 8h10M7 12h4m1 81-4-4H5a2 2 0 01-2-2V6a2 2 @ 012-2h14a2 2 0 012 2v8a2 2 0 01-2 2h-31-4 4z"▷ </svg>
+</a>
+Explain Code
+<a href="https://app.enhanceai.ai/" class="mt-4 px-8 py-4 transition bg-white text-purple-600 rounded-2xl flex md: inline-flex text-xl font-medium cursor-pointer hover: shadow-lg transition items-center"> <svg xmlns="http://www.w3.org/2000/svg" class="h-6 w-6 mr-4" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+<path stroke-linecap="round" stroke-linejoin="round"
+<image src="./purple-top-left-shapes.svg" width="317" class="absolute left-0 -top-64" alt="Shapes" />
+<div class="container mx-auto">
+<div class="flex">
+<a href="https://app.enhanceai.ai/" class="mt-4 px-8 py-4 transition bg-white text-purple-600 rounded-2xl flex md: inline-flex text-xl
+font-medium cursor-pointer hover: shadow-lg transition items-center mr-4"> <svg xmlns="http://www.w3.org/2000/svg" class="h-6 w-6 mr-4" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+</a>
+<path stroke-linecap="round" stroke-linejoin="round"
+stroke-width="2" d="M7 8h10M7 12h4m1 81-4-4H5a2 2 0 01-2-2V6a2 2 012-2h14a2 2012 2v8a2 2 0 01-2 2h-31-4 4z"/>
+</svg> Explain Code
+<a href="https://app.enhanceai.ai/" class="mt-4 px-8 py-4 transition bg-purple-400 text-purple-800 hover:bg-purple-200 hover: text-white rounded-2xl flex md: inline-flex text-xl font-medium cursor-pointer hover:shadow-lg transition items-center mr-4">
+<svg xmlns="http://www.w3.org/2000/svg" class="h-6 w-6 mr-4" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+<path stroke-linecap="round" stroke-line join="round"
+stroke-width="2" d="M7 8h10M7 12h4m1 81-4-4H5a2 2 0 01-2-2V6a2 2 012-2h14a2 2 0 012 2v8a2 2 0 01-2 2h-31-4 4z"▷
+</svg>
+Regex
+</a>
+</div>
+</div>
+<div class="h-48"></div>
+<div class="h-48"></div>
+</li>
+<div>
+</div>
